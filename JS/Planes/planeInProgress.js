@@ -6,3 +6,5 @@ class PlaneInProgress extends PlaneSettings {
         super(model, maxSpeed, maxFlightDistance, maxLoadCapacity);
     };
 };
+
+export default PlaneInProgress;
